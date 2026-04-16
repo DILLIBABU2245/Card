@@ -17,20 +17,22 @@
 }
 
 h1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 10px 20px;
 }
 
 .size {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 10px 20px;
     text-align: justify;
+    
+
 }
 
 .btn {
     background-color: black;
     color: white;
-    margin-bottom: 10px;
+    margin: 10px 20px;
+
+
     padding: 10px;
     border-radius: 10px;
 }
